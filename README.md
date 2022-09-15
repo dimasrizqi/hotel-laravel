@@ -1,5 +1,7 @@
 # Laravel 8 - Booking Application
 
+# require php 8
+
 ## Screenshots
 
 ![preview img](/preview.png)
